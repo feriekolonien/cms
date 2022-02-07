@@ -1,6 +1,6 @@
 ![Logo of the project](./static/logo_white.png)
 
-# Feriekolonien CMS &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/feriekolonien/cms/blob/master/LICENSE)
+# ⚠️ This repo has been archived. See new repo at https://github.com/feriekolonien/site
 
 > Repository for Feriekoloniens CMS (powered by Sanity.io)
 
